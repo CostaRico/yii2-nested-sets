@@ -44,7 +44,7 @@ class NestedSetsBehavior extends Behavior
     /**
      * @var string
      */
-    public $depthAttribute = 'depth';
+    public $depthAttribute = 'level';
     /**
      * @var string|null
      */
